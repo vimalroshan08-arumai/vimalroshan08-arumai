@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- 🔥 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF5F1F&height=220&section=header&text=VIMAL ROSHAN%20M&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<!--
-**vimalroshan08-arumai/vimalroshan08-arumai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF8C00&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer+in+Progress;LeetCode+Problem+Solver;Building+Projects+That+Matter🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+
+- 🎓 AI & DS Student  
+- 💡 Passionate about problem solving & development  
+- 🚀 Building real-world projects  
+- 📈 Focused on consistency & growth  
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://leetcode.com/Subas_mk/">
+    <img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://github.com/subasmk">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/subasmk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/subas_mk">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript,react,nodejs,express,mongodb,mysql,git,figma,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=subasmk&theme=dark&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subasmk&show_icons=true&theme=radical&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasmk&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/Subas_mk/">
+    <img src="https://leetcard.jacoblin.cool/Subas_mk?theme=dark&ext=activity" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements (Updating...)
+
+- 🚀 Consistently solving problems on LeetCode  
+- 💻 Building full stack projects  
+- 📈 Improving DSA & development daily  
+
