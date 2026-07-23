@@ -1,5 +1,5 @@
 <!-- 🔥 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF5F1F&height=220&section=header&text=VIMAL ROSHAN%20M&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF5F1F&height=220&section=header&text=Vimalroshan%20M&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
@@ -74,3 +74,7 @@
 - 💻 Building full stack projects  
 - 📈 Improving DSA & development daily  
 
+
+
+<!-- 🔥 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F1F,100:FF8C00&height=120&section=footer"/>
