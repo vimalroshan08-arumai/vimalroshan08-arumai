@@ -1,5 +1,5 @@
 <!-- 🔥 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF5F1F&height=220&section=header&text=Vimalroshan%20G&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF5F1F&height=220&section=header&text=Vimal%20roshan%20G&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
@@ -28,8 +28,9 @@
   <a href="https://github.com/vimalroshan08-arumai">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/Vimal Roshan>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/vimalroshan">
+
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/vimal_roshan3">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"/>
