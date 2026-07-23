@@ -28,11 +28,11 @@
   <a href="https://github.com/vimalroshan08-arumai">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/vimalroshan">
+  <a href="">
 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/vimal_roshan3">
+  <a href="https://www.linkedin.com/in/vimal-roshan-603327382?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
