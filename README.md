@@ -22,16 +22,16 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://leetcode.com/Subas_mk/">
+  <a href="https://leetcode.com/vimalroshan08/">
     <img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://github.com/subasmk">
+  <a href="https://github.com/vimalroshan08-arumai">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/subasmk">
+  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/vimal-roshan-603327382?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/subas_mk">
+  <a href="https://instagram.com/vimal_roshan3">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
@@ -61,8 +61,8 @@
 ## 🧠 LeetCode Progress
 
 <p align="center">
-  <a href="https://leetcode.com/Subas_mk/">
-    <img src="https://leetcard.jacoblin.cool/Subas_mk?theme=dark&ext=activity" />
+  <a href="https://leetcode.com/vimalroshan08/">
+    <img src="https://leetcard.jacoblin.cool/vimalroshan08?theme=dark&ext=activity" />
   </a>
 </p>
 
