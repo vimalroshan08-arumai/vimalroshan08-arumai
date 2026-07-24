@@ -32,7 +32,7 @@
 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.linkedin.com/in/VimalRoshanG">
+  <a href="https://www.linkedin.com/in/VimalRoshan G">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
