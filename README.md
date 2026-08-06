@@ -50,11 +50,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=subasmk&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=&theme=dark&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=subasmk&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vimalroshan08-arumai&show_icons=true&theme=radical&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasmk&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalroshan08-arumai&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
