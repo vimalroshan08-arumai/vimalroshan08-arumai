@@ -50,7 +50,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=vimalroshan08-arumai&theme=dark&hide_border=true"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=vimalroshan08-arumai&show_icons=true&theme=radical&hide_border=true"/>
   <br/>
