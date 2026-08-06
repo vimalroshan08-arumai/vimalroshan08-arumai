@@ -28,7 +28,7 @@
   <a href="https://github.com/vimalroshan08-arumai">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/vimal-roshan-g-603327382">
+  <a href="https://www.linkedin.com/in/vimalroshan08">
 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
