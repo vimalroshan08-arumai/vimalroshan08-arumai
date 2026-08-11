@@ -151,18 +151,18 @@ Turning ideas into working products
 <!--                      GITHUB ANALYTICS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vimalroshan08-arumai&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+<a href="https://github.com/vimalroshan08-arumai">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalroshan08-arumai&theme=radical&hide_border=true&border_radius=10" width="49%"/>
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalroshan08-arumai&theme=radical&hide_border=true"/>
+<a href="https://github.com/vimalroshan08-arumai">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalroshan08-arumai&theme=radical" width="98%"/>
+</a>
 
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalroshan08-arumai&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
