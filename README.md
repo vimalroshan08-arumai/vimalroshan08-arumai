@@ -1,174 +1,178 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                           -->
+
+<!--                        VIMAL ROSHAN G                           -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0066FF,100:8A2BE2&height=230&section=header&text=VIMAL%20ROSHAN%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B5CFF,75:7B2FF7,100:00D9FF&height=260&section=header&text=VIMAL%20ROSHAN%20G&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%92%BB;LeetCode+Problem+Solver+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Learning.+Building.+Improving.+%E2%9A%A1"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;DSA+%7C+AI+%7C+Web+Development;Building+Ideas+Into+Real+Projects+%F0%9F%9A%80;Learn.+Build.+Break.+Improve.+Repeat.+%E2%9A%A1"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vimalroshan08-arumai&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-### 👋 Hey, I'm Vimal Roshan!
-
-🎓 **AI & Data Science Student**
-
-💡 Passionate about **Problem Solving, Development & AI**
-
-🚀 Building **Real-World Projects**
-
-🧠 Improving my **DSA, Full Stack & AI Skills**
-
-📈 Focused on **Consistency, Learning & Growth**
-
-🔥 My mindset:
-
-> **Learn → Build → Fail → Improve → Repeat**
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ⚡ Current Focus
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0066FF?style=for-the-badge&logo=googlebard&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Science-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DSA-00D9FF?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-0066FF?style=for-the-badge&logo=react&logoColor=white"/>
-
+  <a href="https://github.com/vimalroshan08-arumai">
+    <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  </a>
+  <a href="https://leetcode.com/vimalroshan08/">
+    <img src="https://img.shields.io/badge/LeetCode-050816?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vimal-roshan-g-603327382">
+    <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vimalroshan08-arumai&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF"/>
 </p>
 
 <br>
 
-<table align="center">
+---
 
+# 👋 Hey, I'm Vimal Roshan
+
+<table>
 <tr>
 
-<td align="center" width="25%">
+<td width="60%" valign="top">
 
-### 🤖
+### 🤖 AI & Data Science Student
 
-**AI & ML**
+I'm passionate about **Artificial Intelligence, Data Science, Software Development and Problem Solving**.
 
-Exploring Artificial Intelligence & Machine Learning
+I enjoy turning ideas into practical projects and continuously improving my skills through coding, experimentation and real-world development.
 
-</td>
+<br>
 
-<td align="center" width="25%">
+### 🚀 What I'm Working On
 
-### 🧠
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Data Structures & Algorithms
+* 💻 Full Stack Web Development
+* 🗄️ Databases & Backend Systems
+* 🔥 Building real-world projects
+* 📚 Learning new technologies
 
-**DSA**
+<br>
 
-Solving coding problems
+### ⚡ My Developer Philosophy
 
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-**Development**
-
-Building full-stack applications
+**Think → Build → Test → Fail → Learn → Improve**
 
 </td>
 
-<td align="center" width="25%">
+<td width="40%" align="center">
 
-### 🚀
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="330"/>
 
-**Projects**
+<br><br>
 
-Turning ideas into real products
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00E5FF?style=for-the-badge"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-## ⚙️ Tech Stack
+# 🧠 What I Do
 
-<p align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+## 🤖
+
+### AI / ML
+
+Exploring intelligent systems, machine learning and AI-powered applications.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🧠
+
+### DSA
+
+Practicing algorithms and solving programming problems.
+
+</td>
+
+<td align="center" width="25%">
+
+## 💻
+
+### Full Stack
+
+Building responsive applications from frontend to backend.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🚀
+
+### Projects
+
+Turning ideas into useful real-world products.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚙️ Tech Arsenal
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react&theme=dark"/>
 </p>
-
-<p align="center">
 
 ### 🖥️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
 </p>
 
-<p align="center">
+### 🧠 Programming
 
-### 🧠 Programming & Tools
-
-<img src="https://skillicons.dev/icons?i=python,c,git,github,figma,vscode"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark"/>
 </p>
 
----
+### 🛠️ Tools
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalroshan08-arumai&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalroshan08-arumai&theme=tokyonight"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
 </p>
 
 ---
 
-## 🧠 LeetCode Progress
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalroshan08-arumai&theme=tokyonight&hide_border=true&border_radius=12"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalroshan08-arumai&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧩 Problem Solving
 
 <p align="center">
 
 <a href="https://leetcode.com/vimalroshan08/">
 
-<img src="https://leetcard.jacoblin.cool/vimalroshan08?theme=dark&font=Karma&ext=activity" width="500"/>
+<img src="https://leetcard.jacoblin.cool/vimalroshan08?theme=dark&font=Karma&ext=activity" width="520"/>
 
 </a>
 
@@ -177,86 +181,77 @@ Turning ideas into real products
 <p align="center">
 
 <a href="https://leetcode.com/vimalroshan08/">
-
-<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-00D9FF?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-00E5FF?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏗️ Featured Project Direction
 
 <p align="center">
 
-<a href="https://github.com/vimalroshan08-arumai">
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<td width="50%" align="center">
 
-</a>
+### 🛡️ AI + Cybersecurity
 
-<a href="https://leetcode.com/vimalroshan08/">
+Building intelligent systems that combine **AI, cybersecurity and predictive analytics**.
 
-<img src="https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</td>
 
-</a>
+<td width="50%" align="center">
 
-<a href="https://www.linkedin.com/in/vimalroshan08">
+### 🌐 Full Stack Systems
 
-<img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+Developing complete applications with **modern frontend, backend, databases and APIs**.
 
-</a>
+</td>
 
-<a href="https://instagram.com/vimal_roshan3/">
-
-<img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-</a>
+</tr>
+</table>
 
 </p>
 
 ---
 
-## 🏆 Achievements & Goals
+# 🏆 Goals
 
 <table align="center">
 
 <tr>
-<td>🚀</td>
-<td>Consistently solving problems on <b>LeetCode</b></td>
+<td>01</td>
+<td>🚀 Build impactful real-world software</td>
 </tr>
 
 <tr>
-<td>💻</td>
-<td>Building real-world <b>Full Stack Projects</b></td>
+<td>02</td>
+<td>🧠 Become stronger at DSA & problem solving</td>
 </tr>
 
 <tr>
-<td>🧠</td>
-<td>Improving <b>Data Structures & Algorithms</b></td>
+<td>03</td>
+<td>🤖 Build practical AI-powered applications</td>
 </tr>
 
 <tr>
-<td>🤖</td>
-<td>Exploring <b>Artificial Intelligence & Machine Learning</b></td>
+<td>04</td>
+<td>💻 Master full-stack development</td>
 </tr>
 
 <tr>
-<td>📚</td>
-<td>Continuously learning new technologies</td>
-</tr>
-
-<tr>
-<td>🎯</td>
-<td>Working towards becoming a strong <b>Software Developer</b></td>
+<td>05</td>
+<td>📚 Continuously learn and experiment</td>
 </tr>
 
 </table>
 
 ---
 
-## 💭 Developer Mindset
+# 💭 Developer Mindset
 
 <p align="center">
 
@@ -266,7 +261,7 @@ Turning ideas into real products
 
 ---
 
-## 🐍 Contribution Activity
+# 🐍 Contribution Journey
 
 <p align="center">
 
@@ -276,26 +271,52 @@ Turning ideas into real products
 
 ---
 
-<h2 align="center">⚡ Let's Build Something Amazing</h2>
+# 🌐 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/vimalroshan08-arumai">
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
 
-<img src="https://img.shields.io/badge/⭐%20EXPLORE%20MY%20PROJECTS-0066FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://leetcode.com/vimalroshan08/">
+<img src="https://img.shields.io/badge/LEETCODE-050816?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
 
+<a href="https://www.linkedin.com/in/vimal-roshan-g-603327382">
+<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://instagram.com/vimal_roshan3/">
+<img src="https://img.shields.io/badge/INSTAGRAM-050816?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 </p>
 
+<br>
+
 <p align="center">
 
-<b>Thanks for visiting my profile! 🚀</b>
+### ⚡ BUILD • LEARN • CREATE • REPEAT ⚡
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0B5CFF?style=for-the-badge"/>
 
 </p>
 
+<br>
+
 <p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:0066FF,100:0B1020&height=140&section=footer"/>
+<p align="center">
+  <sub>Always learning. Always building. Always improving.</sub>
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:0B5CFF,70:7B2FF7,100:050816&height=150&section=footer"/>
 </p>
