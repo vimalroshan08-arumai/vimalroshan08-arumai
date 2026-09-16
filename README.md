@@ -287,7 +287,7 @@ Developing complete applications with **modern frontend, backend, databases and 
 <img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="https://instagram.com/vimal_roshan3/">
+<a href="https://instagram.com/vimal_roshan07/">
 <img src="https://img.shields.io/badge/INSTAGRAM-050816?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
