@@ -1,7 +1,6 @@
+```markdown
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                        VIMAL ROSHAN G                           -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
@@ -12,17 +11,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;DSA+%7C+AI+%7C+Web+Development;Building+Ideas+Into+Real+Projects+%F0%9F%9A%80;Learn.+Build.+Break.+Improve.+Repeat.+%E2%9A%A1"/>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         SOCIAL LINKS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <p align="center">
+
   <a href="https://github.com/vimalroshan08-arumai">
     <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
   </a>
+
   <a href="https://leetcode.com/vimalroshan08/">
     <img src="https://img.shields.io/badge/LeetCode-050816?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
+
   <a href="https://www.linkedin.com/in/vimal-roshan-g-603327382">
     <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
+
+  <a href="https://vimal-roshan-engineering-portfolio--vimalroshan08.replit.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050816"/>
+  </a>
+
   <img src="https://komarev.com/ghpvc/?username=vimalroshan08-arumai&label=PROFILE%20VIEWS&style=for-the-badge&color=00E5FF"/>
+
 </p>
 
 <br>
@@ -73,6 +85,26 @@ I enjoy turning ideas into practical projects and continuously improving my skil
 
 </tr>
 </table>
+
+---
+
+# 🌐 My Portfolio
+
+<p align="center">
+
+<a href="https://vimal-roshan-engineering-portfolio--vimalroshan08.replit.app/">
+
+<img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050816"/>
+
+</a>
+
+<br><br>
+
+<a href="https://vimal-roshan-engineering-portfolio--vimalroshan08.replit.app/">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7B2FF7?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
@@ -157,11 +189,15 @@ Turning ideas into useful real-world products.
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalroshan08-arumai&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalroshan08-arumai&theme=tokyonight&hide_border=true&border_radius=12"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalroshan08-arumai&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalroshan08-arumai&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -181,7 +217,9 @@ Turning ideas into useful real-world products.
 <p align="center">
 
 <a href="https://leetcode.com/vimalroshan08/">
+
 <img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-00E5FF?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
 </p>
@@ -193,6 +231,7 @@ Turning ideas into useful real-world products.
 <p align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" align="center">
@@ -212,6 +251,7 @@ Developing complete applications with **modern frontend, backend, databases and 
 </td>
 
 </tr>
+
 </table>
 
 </p>
@@ -287,6 +327,10 @@ Developing complete applications with **modern frontend, backend, databases and 
 <img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
+<a href="https://vimal-roshan-engineering-portfolio--vimalroshan08.replit.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050816"/>
+</a>
+
 <a href="https://instagram.com/vimal_roshan07/">
 <img src="https://img.shields.io/badge/INSTAGRAM-050816?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
@@ -310,13 +354,20 @@ Developing complete applications with **modern frontend, backend, databases and 
 <br>
 
 <p align="center">
+
   <b>Thanks for visiting my profile! 🚀</b>
+
 </p>
 
 <p align="center">
+
   <sub>Always learning. Always building. Always improving.</sub>
+
 </p>
 
 <p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:0B5CFF,70:7B2FF7,100:050816&height=150&section=footer"/>
+
 </p>
+```
