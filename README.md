@@ -320,7 +320,7 @@ Developing complete applications with **modern frontend, backend, databases and 
 <img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="https://vimal-roshan-engineering-portfolio--vimalroshan08.replit.app/">
+<a href="https://vimalroshan08-arumai.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🚀%20PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050816"/>
 </a>
 
