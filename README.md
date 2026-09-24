@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 
-  <a href="https://vimal-roshan-engineering-portfolio--vimalroshan08.replit.app/">
+  <a href="https://vimalroshan08-arumai.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/🚀%20PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050816"/>
   </a>
 
@@ -87,7 +87,7 @@ I enjoy turning ideas into practical projects and continuously improving my skil
 
 <p align="center">
 
-<a href="https://vimal-roshan-engineering-portfolio--vimalroshan08.replit.app/">
+<a href="https://vimalroshan08-arumai.github.io/Portfolio/">
 
 <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050816"/>
 
@@ -97,7 +97,7 @@ I enjoy turning ideas into practical projects and continuously improving my skil
 
 <p align="center">
 
-<a href="https://vimal-roshan-engineering-portfolio--vimalroshan08.replit.app/">
+<a href="https://vimalroshan08-arumai.github.io/Portfolio/">
 
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7B2FF7?style=for-the-badge"/>
 
